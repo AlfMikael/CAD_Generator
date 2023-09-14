@@ -5,10 +5,9 @@ t0 =  time.time()
 # export_path =  r"C:\Users\Alf\Programmering\CAD_Generator\stepfile.step"
 export_path = r"stepfile.step"
 import math
-import cadquery as cq
+import cadquery.cadquery as cq
 import matplotlib.pyplot as plt
 import numpy as np
-
 
 
 def snap_thingy():
