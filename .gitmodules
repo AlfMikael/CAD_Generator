@@ -1,0 +1,3 @@
+[submodule "python_cad_bundle"]
+	path = python_cad_bundle
+	url = git@github.com:AlfMikael/python_cad_bundle.git
